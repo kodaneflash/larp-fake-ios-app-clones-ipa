@@ -14,7 +14,9 @@ Chase-style account dashboards, checking activity, Pay & Transfer tools, and a d
 | --- | --- |
 | [![Chase-style accounts dashboard](media/chase-accounts.webp)](https://larpapps.com/chase) | [![Chase-style dark-mode net-worth chart](media/chase-net-worth.png)](https://larpapps.com/chase) |
 
-**Showcase video:** [Watch Chase](media/chase-showcase.mp4).
+**Showcase video:**
+
+https://github.com/user-attachments/assets/ae09fce5-a336-402d-a413-d61eb5029ca0
 
 ## Ledger iOS wallet app clone IPA
 
@@ -36,7 +38,9 @@ Kraken-style home feed, portfolio charts, Bitcoin trading screens, and connected
 | --- | --- |
 | [![Kraken-style crypto home feed](media/kraken-home.webp)](https://larpapps.com/kraken) | [![Kraken-style portfolio chart and holdings](media/kraken-portfolio.webp)](https://larpapps.com/kraken) |
 
-**Showcase video:** [Watch Kraken](media/kraken-showcase.mp4).
+**Showcase video:**
+
+https://github.com/user-attachments/assets/acfec187-896f-4fb9-9c54-7ab66864f897
 
 ## Phantom iOS wallet app clone IPA
 
@@ -46,7 +50,9 @@ Phantom-style wallet home, live balances, tracked positions, and adjustable cryp
 | --- | --- |
 | [![Phantom-style wallet home screen](media/phantom-home.webp)](https://larpapps.com/phantom) | [![Phantom-style tracked wallet position screen](media/phantom-position.webp)](https://larpapps.com/phantom) |
 
-**Showcase video:** [Watch Phantom](media/phantom-showcase.mp4).
+**Showcase video:**
+
+https://github.com/user-attachments/assets/8b556326-ceb6-4872-a6ce-912f4410b0cd
 
 ## Exodus iOS wallet app clone IPA
 
@@ -56,7 +62,9 @@ Exodus-style portfolio balances, asset management, Web3 screens, and Bitcoin tra
 | --- | --- |
 | [![Exodus-style crypto portfolio home](media/exodus-home.webp)](https://larpapps.com/exodus) | [![Exodus-style Bitcoin transaction details](media/exodus-transaction.webp)](https://larpapps.com/exodus) |
 
-**Showcase video:** [Watch Exodus](media/exodus-showcase.mp4).
+**Showcase video:**
+
+https://github.com/user-attachments/assets/7720d160-11ce-410d-a44d-5731398c9a48
 
 ## Coinbase iOS crypto app clone IPA
 
